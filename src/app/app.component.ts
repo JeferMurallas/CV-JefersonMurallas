@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'CvJefersonMurallas';
+  nombre:string = 'null';
+  email:string = 'null';
+  mensaje:string = 'nul';
 }
